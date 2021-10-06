@@ -1,2 +1,3 @@
-# exercicios-e-provas-curso-tecnico-em-informatica
-sera colocado exercicos e provas realizadas durante o curso de tecnico em informatica na area de programação web.
+# curso tecnico em informática.
+# Colocarei exemplos dados durante aula de internet e programação web.
+# Assim também como exercios e provas da mesma materia acima citada.
