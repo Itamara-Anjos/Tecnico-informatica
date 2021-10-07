@@ -1,1 +1,3 @@
-# curso tecnico em informática HTML
+# curso tecnico em informática 
+# HTML
+# CSS
